@@ -1,0 +1,4 @@
+ls
+cd Documents 
+mkdir kizh0008_Final_Project
+touch T1Q1_txt
